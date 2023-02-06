@@ -12,12 +12,19 @@ Most articles focus on predicting adverse maternal outcomes, data collection and
 Conclusion: Mobile health technology can help women with pre-eclampsia to accurately control and monitor their blood pressure during pregnancy and postpartum, alerting them to signs of worsening disease.
 ## SOURCES
 •	Prediction of obstetrical and fetal complications using automated electronic health record data Gabriel J. Escobar MD https://www.sciencedirect.com/science/article/abs/pii/S0002937820312047 
+
 •	Improvement in Hindbrain Herniation Demonstrated by Serial Fetal Magnetic Resonance Imaging Following Fetal Surgery for Myelomeningocele Leslie N. Sutton, MD; N. Scott Adzick, MD; Larissa T. Bilaniuk, MD; https://jamanetwork.com/journals/jama/article-abstract/192109 
+
 •	Self-monitoring of blood pressure among women with hypertensive disorders of pregnancy: a systematic review; https://link.springer.com/article/10.1186/s12884-022-04751-7#Abs1 
+
 •	Exploring digital health interventions for pregnant women at high risk for pre-eclampsia and eclampsia in low-income and-middle-income countries: a scoping review https://bmjopen.bmj.com/content/12/2/e056130.abstract#supplementary-materials
+
 •	Management of hypertension before, during, and after pregnancy https://heart.bmj.com/content/90/12/1499?int_source=trendmd&int_medium=cpc&int_campaign=usage-042019&_gl=1*nvcwgc*_ga*NzcwNTgxNDguMTY3NDY4NzEwMQ..*
+
 •	Feasibility of implementing a mobile phone-based telemonitoring programme to support pregnant women at high-risk for pre-eclampsia  https://bmjopen.bmj.com/content/12/12/e070535
+
 •	Exploring Implementation of m-Health Monitoring in Postpartum Women with Hypertension https://www.liebertpub.com/doi/abs/10.1089/tmj.2016.0272
+
 •	Cost-effectiveness of telehealth with remote patient monitoring for postpartum hypertension
 https://www.tandfonline.com/doi/abs/10.1080/14767058.2021.1956456
 
