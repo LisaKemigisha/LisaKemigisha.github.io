@@ -10,6 +10,7 @@ The high maternal mortality rate from pre-eclampsia/eclampsia is due to the lack
 ## Investigating the use of telemedicine to enable remote consultations between pregnant women. 
 Most articles focus on predicting adverse maternal outcomes, data collection and decision support, diagnostic and clinical decision support. Telemedicine is widely used in high-income countries to provide a variety of obstetric services, including: Using videoconferencing as an alternative to face-to-face visits, conducting home monitoring, facilitating remote specialist consultation, early postpartum follow-up, and access to lactation consultants. Telemedicine for pregnant women at HRPE/E in low- and middle-income countries enables remote monitoring and consultation between pregnant women and health care providers. Increasing numbers of women giving birth suffer from high morbidity and mortality. 
 Conclusion: Mobile health technology can help women with pre-eclampsia to accurately control and monitor their blood pressure during pregnancy and postpartum, alerting them to signs of worsening disease.
+![image](https://user-images.githubusercontent.com/118061984/216947132-6acf48d1-b9da-4a55-9ff0-97fc81dc1949.png)
 ## SOURCES
 •	Prediction of obstetrical and fetal complications using automated electronic health record data Gabriel J. Escobar MD https://www.sciencedirect.com/science/article/abs/pii/S0002937820312047 
 
